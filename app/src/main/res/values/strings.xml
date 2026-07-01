@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOCKNOF</string>
+    <string name="empty_templates">No templates yet.\nTap ＋ to create one, or use Built-in Presets.</string>
+    <string name="channel_id_default">default</string>
+</resources>
