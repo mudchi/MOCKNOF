@@ -8,11 +8,11 @@
   <a href="https://github.com/mudchi/MOCKNOF/releases/latest">
     <img src="https://img.shields.io/github/v/release/mudchi/MOCKNOF?label=latest%20release&color=brightgreen" alt="Latest Release"/>
   </a>
-  <a href="https://github.com/mudchi/MOCKNOF/releases/latest/download/MOCKNOF-v1.0.apk">
-    <img src="https://img.shields.io/badge/Download%20APK-v1.0-blue?logo=android" alt="Download APK"/>
+  <a href="https://github.com/mudchi/MOCKNOF/releases/latest/download/MOCKNOF-v1.1.apk">
+    <img src="https://img.shields.io/badge/Download%20APK-v1.1-blue?logo=android" alt="Download APK"/>
   </a>
   <img src="https://img.shields.io/badge/Android-8.0%2B-green?logo=android" alt="Android 8.0+"/>
-  <img src="https://img.shields.io/badge/Kotlin-2.0-purple?logo=kotlin" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Kotlin-2.2.10-purple?logo=kotlin" alt="Kotlin"/>
 </p>
 
 ---
@@ -152,7 +152,8 @@ Download the latest release APK from GitHub Releases or directly from the [`rele
 
 | Version | Download | Android |
 |---|---|---|
-| **v1.0** | [**⬇ MOCKNOF-v1.0.apk**](https://github.com/mudchi/MOCKNOF/releases/download/v1.0/MOCKNOF-v1.0.apk) | 8.0+ (API 26+) |
+| **v1.1** *(latest)* | [**⬇ MOCKNOF-v1.1.apk**](https://github.com/mudchi/MOCKNOF/releases/download/v1.1/MOCKNOF-v1.1.apk) | 8.0+ (API 26+) |
+| v1.0 | [MOCKNOF-v1.0.apk](https://github.com/mudchi/MOCKNOF/releases/download/v1.0/MOCKNOF-v1.0.apk) | 8.0+ (API 26+) |
 
 ➡️ All releases: https://github.com/mudchi/MOCKNOF/releases
 
@@ -295,7 +296,8 @@ app/src/main/
 
 | เวอร์ชัน | ดาวน์โหลด | Android |
 |---|---|---|
-| **v1.0** | [**⬇ MOCKNOF-v1.0.apk**](https://github.com/mudchi/MOCKNOF/releases/download/v1.0/MOCKNOF-v1.0.apk) | 8.0+ (API 26+) |
+| **v1.1** *(ล่าสุด)* | [**⬇ MOCKNOF-v1.1.apk**](https://github.com/mudchi/MOCKNOF/releases/download/v1.1/MOCKNOF-v1.1.apk) | 8.0+ (API 26+) |
+| v1.0 | [MOCKNOF-v1.0.apk](https://github.com/mudchi/MOCKNOF/releases/download/v1.0/MOCKNOF-v1.0.apk) | 8.0+ (API 26+) |
 
 ➡️ ทุกเวอร์ชัน: https://github.com/mudchi/MOCKNOF/releases
 
