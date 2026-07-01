@@ -70,3 +70,9 @@ lint/tmp/
 
 # Mac OS
 .DS_Store
+
+# Allow root-level release APK
+!MOCKNOF-debug.apk
+
+# Gradle wrapper jar (binary)
+gradle/wrapper/gradle-wrapper.jar
