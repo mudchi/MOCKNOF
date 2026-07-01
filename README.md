@@ -4,6 +4,17 @@
   <img src="app/src/main/res/drawable/ic_notification.xml" width="80" alt="MOCKNOF icon"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/mudchi/MOCKNOF/releases/latest">
+    <img src="https://img.shields.io/github/v/release/mudchi/MOCKNOF?label=latest%20release&color=brightgreen" alt="Latest Release"/>
+  </a>
+  <a href="https://github.com/mudchi/MOCKNOF/releases/latest/download/MOCKNOF-v1.0.apk">
+    <img src="https://img.shields.io/badge/Download%20APK-v1.0-blue?logo=android" alt="Download APK"/>
+  </a>
+  <img src="https://img.shields.io/badge/Android-8.0%2B-green?logo=android" alt="Android 8.0+"/>
+  <img src="https://img.shields.io/badge/Kotlin-2.0-purple?logo=kotlin" alt="Kotlin"/>
+</p>
+
 ---
 
 ## 🇬🇧 English
@@ -137,7 +148,13 @@ app/src/main/
 
 ### 📦 Download APK
 
-A pre-built debug APK is available in the repository root: [`MOCKNOF-debug.apk`](MOCKNOF-debug.apk)
+Download the latest release APK from GitHub Releases or directly from the [`releases/`](releases/) folder:
+
+| Version | Download | Android |
+|---|---|---|
+| **v1.0** | [**⬇ MOCKNOF-v1.0.apk**](https://github.com/mudchi/MOCKNOF/releases/download/v1.0/MOCKNOF-v1.0.apk) | 8.0+ (API 26+) |
+
+➡️ All releases: https://github.com/mudchi/MOCKNOF/releases
 
 > ⚠️ Enable **"Install unknown apps"** in Android settings before installing.
 
@@ -274,7 +291,13 @@ app/src/main/
 
 ### 📦 ดาวน์โหลด APK
 
-ไฟล์ APK พร้อมใช้งานอยู่ที่ root ของ repository: [`MOCKNOF-debug.apk`](MOCKNOF-debug.apk)
+ดาวน์โหลด APK ล่าสุดได้จาก GitHub Releases:
+
+| เวอร์ชัน | ดาวน์โหลด | Android |
+|---|---|---|
+| **v1.0** | [**⬇ MOCKNOF-v1.0.apk**](https://github.com/mudchi/MOCKNOF/releases/download/v1.0/MOCKNOF-v1.0.apk) | 8.0+ (API 26+) |
+
+➡️ ทุกเวอร์ชัน: https://github.com/mudchi/MOCKNOF/releases
 
 > ⚠️ ต้องเปิด **"ติดตั้งแอปจากแหล่งที่ไม่รู้จัก"** ในการตั้งค่า Android ก่อนติดตั้ง
 

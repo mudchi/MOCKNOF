@@ -71,11 +71,9 @@ lint/tmp/
 # Mac OS
 .DS_Store
 
-# Allow root-level release APK
-!MOCKNOF-debug.apk
-
 # Gradle wrapper jar (binary)
 gradle/wrapper/gradle-wrapper.jar
 
-# Allow versioned release APKs at root
-!MOCKNOF-v*.apk
+# Released APKs
+!releases/
+!releases/*.apk
