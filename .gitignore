@@ -76,3 +76,6 @@ lint/tmp/
 
 # Gradle wrapper jar (binary)
 gradle/wrapper/gradle-wrapper.jar
+
+# Allow versioned release APKs at root
+!MOCKNOF-v*.apk
